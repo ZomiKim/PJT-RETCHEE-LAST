@@ -117,6 +117,8 @@
 
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
+
 </div>
 
 ### Frontend
