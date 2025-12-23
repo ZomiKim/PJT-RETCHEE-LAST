@@ -15,10 +15,6 @@
 
 ## Overview
 
-### 구로구 주민을 위한 치과 예약·리뷰 서비스 '릿치'
-
-**실제 진료 경험 기반 치과 예약·리뷰 서비스 '릿치'**
-
 릿치는 구로구 주민들이 치과를 선택할 때 광고나 단순한 입소문이 아닌, 실제 진료 경험을 바탕으로 신뢰할 수 있는 치과를 선택할 수 있도록 돕는 예약, 리뷰 서비스입니다.
 
 예약부터 진료, 리뷰까지 하나의 흐름으로 연결된 구조를 통해 의료 정보의 신뢰도를 높이고자 했습니다.
@@ -140,32 +136,15 @@
 - **Vite** 7.2.4
 - **React Router DOM** 7.9.6
 - **Tailwind CSS** 4.1.17
-- **Axios** 1.13.2
 - **Moment.js** 2.30.1
 - **React Kakao Maps SDK** 1.2.0
-- **Supabase** 2.86.0
-- **HTML5**, **CSS3**, **JavaScript**
-- **Bootstrap**
 
 ### Backend
 
 - **Spring Boot** 4.0.0
-- **Java** 17
 - **Spring Data JPA**
-- **PostgreSQL** 42.7.3
 - **Lombok**
 - **SpringDoc OpenAPI** 2.8.0 (Swagger)
-- **Apache Tomcat**
-
-### Database
-
-- **PostgreSQL** (Supabase)
-
-### Infrastructure & Tools
-
-- **Supabase** (인증 및 스토리지)
-- **GitHub** (형상 관리)
-- **Eclipse** (개발 환경)
 
 ## 📋 주요 기능
 
