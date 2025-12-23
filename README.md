@@ -220,5 +220,7 @@
 ## 🎥 시연 영상
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/1ZLQr8uVqBU?autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=1ZLQr8uVqBU">
+    <img src="https://img.youtube.com/vi/1ZLQr8uVqBU/maxresdefault.jpg" alt="릿치 시연 영상" width="560"/>
+  </a>
 </div>
