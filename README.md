@@ -2,7 +2,7 @@
 
 ## Who are we?
 
-**제작 기간**: 2023-06-21 ~ 2023-08-11
+**제작 기간**: 2025-11-17 ~ 2025-12-22
 
 **팀 구성**:
 
@@ -216,3 +216,9 @@
 - **의사 소견과 주의사항 작성**: 소견서 및 주의사항 작성
 - **내역 조회**: 진료 내역 조회
 - **환자 예약 내역 자동 입력**: 예약 정보 기반 자동 입력
+
+## 🎥 시연 영상
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1ZLQr8uVqBU?autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
